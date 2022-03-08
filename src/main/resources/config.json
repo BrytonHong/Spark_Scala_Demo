@@ -1,0 +1,16 @@
+{
+  "header": {
+    "created_by": "developer",
+    "created_date": "20220303"
+  },
+  "body": {
+    "pg_target_schema": "testenv",
+    "pg_target_table": "course_table",
+    "replace_null_value": {
+      "course_id": "NO",
+      "course_name": "YES",
+      "author_name": "YES",
+      "no_of_reviews": "YES"
+    }
+  }
+}
